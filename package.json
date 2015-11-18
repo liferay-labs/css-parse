@@ -1,7 +1,7 @@
 {
-  "name": "css-parse",
+  "name": "liferay-css-parse",
   "version": "1.7.0",
-  "description": "CSS parser",
+  "description": "Liferay fork of CSS parser",
   "keywords": [
     "css",
     "parser",
